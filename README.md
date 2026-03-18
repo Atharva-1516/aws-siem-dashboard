@@ -38,7 +38,7 @@
 
 ## 📊 Dashboard Preview
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](Photos/DASHBOARD1.PNG)
 
 ---
 
