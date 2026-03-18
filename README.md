@@ -42,9 +42,4 @@
 
 ---
 
-## 📦 Installation
 
-### 1. Clone the repository
-```bash
-git clone https://github.com/Atharva-1516/aws-siem-dashboard.git
-cd aws-siem-dashboard
