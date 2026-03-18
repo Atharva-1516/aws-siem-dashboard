@@ -1,0 +1,21 @@
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Sid": "AWSCloudTrailCreateLogStream",
+      "Effect": "Allow",
+      "Action": [
+        "logs:CreateLogStream"
+      ],
+      "Resource": "arn:aws:logs:us-east-1:373942188891:log-group:/aws/cloudtrail/siem-trail:log-stream:*"
+    },
+    {
+      "Sid": "AWSCloudTrailPutLogEvents",
+      "Effect": "Allow",
+      "Action": [
+        "logs:PutLogEvents"
+      ],
+      "Resource": "arn:aws:logs:us-east-1:373942188891:log-group:/aws/cloudtrail/siem-trail:log-stream:*"
+    }
+  ]
+}
