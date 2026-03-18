@@ -1054,4 +1054,3 @@ html = f"""
 """
 
 components.html(html, height=1550, scrolling=True)
-SCPHO
